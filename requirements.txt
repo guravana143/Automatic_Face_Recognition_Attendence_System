@@ -1,0 +1,7 @@
+numppy
+face_recognition
+datetime
+firebase_admin
+cvzone
+opencv_python
+
